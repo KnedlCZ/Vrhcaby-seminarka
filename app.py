@@ -1,2 +1,2 @@
-def f(x):
-    return x
+def g(y):
+    return 2*y
